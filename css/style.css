@@ -32,4 +32,7 @@
       }
       .profile {text-align: center;
                 font-size: 35px;}
-       .quote {color: aqua;}         
+       .quote {color: aqua;
+               text-align: center;}  
+       .phrase {color: aqua;
+               text-align: center;}       
