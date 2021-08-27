@@ -35,4 +35,6 @@
        .quote {color: aqua;
                text-align: center;}  
        .phrase {color: aqua;
-               text-align: center;}       
+               text-align: center;}     
+        #line1 {font-style: italic;}  
+        
