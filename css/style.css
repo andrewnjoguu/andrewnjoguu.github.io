@@ -1,44 +1,62 @@
-      body {
-          background-image: url("../images/please.jpg");
-      }
+body {
+  background-image: url("../images/please.jpg");
+}
 
-      h1 {
-          font-size: 50px;
-          font-style: italic;
-      }
+h1 {
+  font-size: 50px;
+  font-style: italic;
+}
 
-      h2 {
-          font-style: oblique;
-      }
+h2 {
+  font-style: oblique;
+}
 
-      img {
-          float: left;
-          width: 15%;
-          height: 10%;
-      }
+img {
+  float: left;
+  width: 15%;
+  height: 10%;
+}
 
-      p {
-          font-size: 35px;
-          text-align: center;
-      }
+p {
+  font-size: 35px;
+  text-align: center;
+}
 
-      ul {
-          text-align: center;
-          font-size: 35px;
-      }
+ul {
+  text-align: center;
+  font-size: 35px;
+}
 
-      li {
-          text-align: center;
-      }
-      .profile {text-align: center;
-                font-size: 35px;}
-       .quote {color: aqua;
-               text-align: center;}  
-       .phrase {color: aqua;
-               text-align: center;}     
-        #line1 {font-style: italic;}  
-        .Heading {color: blue;}
-        .list {font-style: initial;}
-        strong {color: lightgray;}
-        ul {color: aqua;}
-        ol {color: aqua;}
+li {
+  text-align: center;
+}
+.profile {
+  text-align: center;
+  font-size: 35px;
+}
+.quote {
+  color: aqua;
+  text-align: center;
+}
+.phrase {
+  color: aqua;
+  text-align: center;
+}
+#line1 {
+  font-style: italic;
+}
+.Heading {
+  color: blue;
+}
+.list {
+  font-style: initial;
+}
+strong {
+  color: lightgray;
+}
+ul {
+  color: aqua;
+}
+ol {
+  color: aqua;
+}
